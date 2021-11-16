@@ -1,5 +1,5 @@
 # IIoT_DemoKit
-**** Instruction in Construction ****
+<img src=https://github.com/simberg-aws/IIoT_DemoKit/blob/main/Images/Conveyors.png width=600>
 
 # Types of Conveyors
 
@@ -13,3 +13,5 @@ Ideal for demos
 
 **Size(LxWxH):** ~ 300m x 45mm x 45mm
 
+# Bill of Materials (BOM) 
+<img src=https://github.com/simberg-aws/IIoT_DemoKit/blob/main/Images/BOM.png width=600>
