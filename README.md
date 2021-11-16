@@ -11,6 +11,8 @@ Ideal for learning, development, or demos for small audiences
 ## Big Conveyor
 Ideal for demos
 
+Two Versions - With and Without Bearings for the Rollers.
+
 **Size(LxWxH):** ~ 300m x 45mm x 45mm
 
 # Bill of Materials (BOM) 
