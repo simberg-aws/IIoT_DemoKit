@@ -1,8 +1,6 @@
 # IIoT_DemoKit
 <img src=https://github.com/simberg-aws/IIoT_DemoKit/blob/main/Images/Conveyors.png width=600>
 
-# Types of Conveyors
-
 ## Small Conveyor
 Ideal for learning, development, or demos for small audiences
 
